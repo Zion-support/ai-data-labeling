@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Data Labeling
 
-**ai-data-labeling** is part of the Zion Tech Group app network (630+ apps).
+Automated data labeling and annotation with active learning.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-data-engineering-hub](https://github.com/Zion-support/ai-data-engineering-hub) · [ai-data-validator](https://github.com/Zion-support/ai-data-validator) · [synthetic-data-lab](https://github.com/Zion-support/synthetic-data-lab) · [ai-ml-pipeline](https://github.com/Zion-support/ai-ml-pipeline) · [ai-document-classifier](https://github.com/Zion-support/ai-document-classifier)
 
-## Related apps
-- [ai-data-validator](https://github.com/Zion-support/ai-data-validator) — Data quality validation and cleansing
-- [synthetic-data-lab](https://github.com/Zion-support/synthetic-data-lab) — Privacy-safe synthetic data generation
-- [ai-data-pipeline](https://github.com/Zion-support/ai-data-pipeline) — Automated data pipelines
-- [data-quality-sentinel](https://github.com/Zion-support/data-quality-sentinel) — Continuous data quality monitoring
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
